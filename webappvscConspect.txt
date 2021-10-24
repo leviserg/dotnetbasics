@@ -1,0 +1,63 @@
+1. Install node + npm with default parameters
+2. Way 1: Using npm Create project folder, run Git-Bash here 
+	> npm install -g yo grunt-cli generator-aspnet bower
+	> yo aspnet
+		select features:
+		{ 
+			+ Web Application Basic [without Membership and Authoriz] 
+			+ Bootstrap version
+			+ Set Application Name {root folder will be created}
+		}
+	> cd YourApplicationNameFolder
+	> dotnet restore
+	> code . { VSCode will be launched with YourApplicationNameFolder }
+2. Way 2: Using Visual Studio:
+	Create new project from template:
+		Web/ASP.NET Web Application (.NET Framework) + (Basic + MVC) + build & debug + check in browser for default pages
+		- Create new Model in Models Folder {Add/Class} + set properties (prop + Tab/Tab + type + name)
+		- Create new Controller in Controllers {Add/Controller} + connect to existing Model + Context {will be used as Database Connection}
+		- Open Tools/NuGet Package Manager/NuGet Console (run commands):
+			> Enable-Migrations -EnableAutomaticMigrations
+			> Update-Database
+		- Check the created datasource in View/Server Explorer/Data connections/{YourContextName}/Tables/{ModelName}s/Show Data + run sql sript for insert row(s)
+		- Go to project folder Views/Shared and open file Layout.cshtml to create links to crud views
+			add to nav-bar list item: <li>@Html.ActionLink("Students","Index","Students")</li>
+---- Web API ----
+3. Using Visual Studio:
+	Create new project from template:
+		Web/ASP.NET Web Application (.NET Framework) + (Empty + API) + check in browser for default pages
+		- Create new Model in Models Folder {Add/Class} + set properties (prop + Tab/Tab + type + name)
+		- Create new Controller in Controllers {Add/Controller => Web API 2 Controller - Empty type} + connect to existing Model + Context {will be used as Database Connection}
+	Front-End:
+		Select Project folder in Browser > Add > HTML file > name it index.html
+---- WPF App = Windows Presentation Foundation - desktop applications + rendering scalable vector graphic ---
+4. Create new project from template:
+		Windows / WPF Application
+---- NEW FEATURES ----
+	- nameof - get the class/variable name in string in throwing exceptions + refatoring + comments with /// {in code documentation tags} - ONLY in scope
+	- string interpolation (more convenient instead of string.Format :
+		string city = "xxxxx";
+		strint money = 15;
+		string result = string.Format("This is {0}. I have {1} dollars",city,money);
+		string result = $"This is {city}. I have {money} dollars";
+	)
+	- static (
+		using static System.Math;
+		class AnyClass{
+			private AnyMethod(){
+				Round(3.1415926, 2); // instead of Math.Round or System.Math.Round
+			}
+		}
+	)
+------- TESTING -------
+5. Create new project from template:
+		Templates / Test
+		Write Test
+		Add Solution/Add/NewProject/Class Library type to Solution {Not Project} => Name it As Named in the written Test
+		Write code
+		Go to Test project / project / Reference / Projects / 
+
+
+		
+			
+

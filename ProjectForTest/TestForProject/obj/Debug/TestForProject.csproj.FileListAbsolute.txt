@@ -1,0 +1,17 @@
+D:\SergeyDocs\dotnetbegincourse\ProjectForTest\TestForProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\SergeyDocs\dotnetbegincourse\ProjectForTest\TestForProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\SergeyDocs\dotnetbegincourse\ProjectForTest\TestForProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\SergeyDocs\dotnetbegincourse\ProjectForTest\TestForProject\bin\Debug\TestForProject.dll
+D:\SergeyDocs\dotnetbegincourse\ProjectForTest\TestForProject\bin\Debug\TestForProject.pdb
+D:\SergeyDocs\dotnetbegincourse\ProjectForTest\TestForProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\SergeyDocs\dotnetbegincourse\ProjectForTest\TestForProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\SergeyDocs\dotnetbegincourse\ProjectForTest\TestForProject\bin\Debug\ProjectForTest.exe
+D:\SergeyDocs\dotnetbegincourse\ProjectForTest\TestForProject\bin\Debug\ProjectForTest.pdb
+D:\SergeyDocs\dotnetbegincourse\ProjectForTest\TestForProject\bin\Debug\ProjectForTest.exe.config
+D:\SergeyDocs\dotnetbegincourse\ProjectForTest\TestForProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\SergeyDocs\dotnetbegincourse\ProjectForTest\TestForProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\SergeyDocs\dotnetbegincourse\ProjectForTest\TestForProject\obj\Debug\TestForProject.csprojAssemblyReference.cache
+D:\SergeyDocs\dotnetbegincourse\ProjectForTest\TestForProject\obj\Debug\TestForProject.csproj.CoreCompileInputs.cache
+D:\SergeyDocs\dotnetbegincourse\ProjectForTest\TestForProject\obj\Debug\TestForProject.csproj.CopyComplete
+D:\SergeyDocs\dotnetbegincourse\ProjectForTest\TestForProject\obj\Debug\TestForProject.dll
+D:\SergeyDocs\dotnetbegincourse\ProjectForTest\TestForProject\obj\Debug\TestForProject.pdb

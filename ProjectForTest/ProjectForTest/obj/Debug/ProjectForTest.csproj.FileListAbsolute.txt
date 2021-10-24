@@ -1,0 +1,7 @@
+D:\SergeyDocs\dotnetbegincourse\ProjectForTest\ProjectForTest\bin\Debug\ProjectForTest.exe.config
+D:\SergeyDocs\dotnetbegincourse\ProjectForTest\ProjectForTest\bin\Debug\ProjectForTest.exe
+D:\SergeyDocs\dotnetbegincourse\ProjectForTest\ProjectForTest\bin\Debug\ProjectForTest.pdb
+D:\SergeyDocs\dotnetbegincourse\ProjectForTest\ProjectForTest\obj\Debug\ProjectForTest.csprojAssemblyReference.cache
+D:\SergeyDocs\dotnetbegincourse\ProjectForTest\ProjectForTest\obj\Debug\ProjectForTest.csproj.CoreCompileInputs.cache
+D:\SergeyDocs\dotnetbegincourse\ProjectForTest\ProjectForTest\obj\Debug\ProjectForTest.exe
+D:\SergeyDocs\dotnetbegincourse\ProjectForTest\ProjectForTest\obj\Debug\ProjectForTest.pdb
